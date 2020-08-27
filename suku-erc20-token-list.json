@@ -1,0 +1,75 @@
+{
+	"name": "SUKU",
+	"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7/logo.png",
+	"version": {
+		"major": 1,
+		"minor": 0,
+		"patch": 0
+	},
+	"keywords": [ "suku", "audited", "uniswap", "default" ],
+	"tags": {
+		"suku": {
+			"name": "SUKU",
+			"description": "The link between open finance, traceability, and transparency."
+		}
+	},
+	"timestamp": "2020-08-27T20:00:00+00:00",
+	"tokens": [
+		{
+			"name": "SUKU",
+			"address": "0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7",
+			"symbol": "SUKU",
+			"decimals": 18,
+			"chainId": 1,
+			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7/logo.png"
+		},
+		{
+			"name": "SUKU",
+			"address": "0xf2cE74489aDDc0A57392846fEA18A7f8B1dA19Fe",
+			"symbol": "SUKU",
+			"decimals": 18,
+			"chainId": 1,
+			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7/logo.png"
+		},
+		{
+			"name": "Wrapped Ether",
+			"address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+			"symbol": "WETH",
+			"decimals": 18,
+			"chainId": 1,
+			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+		},
+		{
+			"name": "Wrapped Ether",
+			"address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+			"symbol": "WETH",
+			"decimals": 18,
+			"chainId": 3,
+			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+		},
+		{
+			"name": "Wrapped Ether",
+			"address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+			"symbol": "WETH",
+			"decimals": 18,
+			"chainId": 4,
+			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+		},
+		{
+			"name": "Wrapped Ether",
+			"address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+			"symbol": "WETH",
+			"decimals": 18,
+			"chainId": 5,
+			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
+		},
+		{
+			"name": "Wrapped Ether",
+			"address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
+			"symbol": "WETH",
+			"decimals": 18,
+			"chainId": 42,
+			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
+		}
+	]
+}
