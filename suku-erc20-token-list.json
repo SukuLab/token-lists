@@ -28,7 +28,7 @@
 			"address": "0xf2cE74489aDDc0A57392846fEA18A7f8B1dA19Fe",
 			"symbol": "SUKU",
 			"decimals": 18,
-			"chainId": 1,
+			"chainId": 3,
 			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7/logo.png"
 		},
 		{
