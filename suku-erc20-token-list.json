@@ -6,7 +6,12 @@
 		"minor": 0,
 		"patch": 0
 	},
-	"keywords": [ "suku", "audited", "uniswap", "default" ],
+	"keywords": [
+		"suku",
+		"audited",
+		"uniswap",
+		"default"
+	],
 	"tags": {
 		"suku": {
 			"name": "SUKU",
@@ -30,6 +35,30 @@
 			"decimals": 18,
 			"chainId": 3,
 			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7/logo.png"
+		},
+		{
+			"name": "SUKU",
+			"address": "0xd35f5965b4b84382ca27072ff3b6b42e7053e672",
+			"symbol": "SUKU",
+			"decimals": 18,
+			"chainId": 42,
+			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7/logo.png"
+		},
+		{
+			"name": "USDC",
+			"address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+			"symbol": "USDC",
+			"decimals": 18,
+			"chainId": 1,
+			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+		},
+		{
+			"name": "USDC",
+			"address": "0xd35f5965b4b84382ca27072ff3b6b42e7053e672",
+			"symbol": "USDC",
+			"decimals": 18,
+			"chainId": 42,
+			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
 		},
 		{
 			"name": "Wrapped Ether",
