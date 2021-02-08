@@ -54,11 +54,27 @@
 		},
 		{
 			"name": "USDC",
-			"address": "0xd35f5965b4b84382ca27072ff3b6b42e7053e672",
+			"address": "0x4EF59beeAf3d5c5A95CE8D2A80655282e83e29f5",
 			"symbol": "USDC",
-			"decimals": 18,
+			"decimals": 6,
 			"chainId": 42,
 			"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+		},
+		{
+			"name": "WHBAR",
+			"address": "0x4CA6ADf8c10f8b48442c15af1e31bA8620F6Fd84",
+			"symbol": "WHBAR",
+			"decimals": 8,
+			"chainId": 42,
+			"logoURI": "https://avatars.githubusercontent.com/u/31002956?s=200&v=4"
+		},
+		{
+			"name": "WHBAR",
+			"address": "0x435FC409F14b2500A1E24C20516250Ad89341627",
+			"symbol": "WHBAR",
+			"decimals": 8,
+			"chainId": 1,
+			"logoURI": "https://avatars.githubusercontent.com/u/31002956?s=200&v=4"
 		},
 		{
 			"name": "Wrapped Ether",
