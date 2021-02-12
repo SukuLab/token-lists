@@ -3,7 +3,7 @@
 	"logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0763fdCCF1aE541A5961815C0872A8c5Bc6DE4d7/logo.png",
 	"version": {
 		"major": 1,
-		"minor": 0,
+		"minor": 1,
 		"patch": 0
 	},
 	"keywords": [
@@ -66,7 +66,7 @@
 			"symbol": "WHBAR",
 			"decimals": 8,
 			"chainId": 42,
-			"logoURI": "https://avatars.githubusercontent.com/u/31002956?s=200&v=4"
+			"logoURI": "https://raw.githubusercontent.com/SukuLab/token-lists/master/logos/hbar-logo.png"
 		},
 		{
 			"name": "WHBAR",
@@ -74,7 +74,7 @@
 			"symbol": "WHBAR",
 			"decimals": 8,
 			"chainId": 1,
-			"logoURI": "https://avatars.githubusercontent.com/u/31002956?s=200&v=4"
+			"logoURI": "https://raw.githubusercontent.com/SukuLab/token-lists/master/logos/hbar-logo.png"
 		},
 		{
 			"name": "Wrapped Ether",
